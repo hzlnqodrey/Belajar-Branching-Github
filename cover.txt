@@ -1,2 +1,3 @@
 ba dum des
 coba squash commit 1
+disuruh bikin minimal 3 commit #squash commit 2
